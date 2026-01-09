@@ -31,6 +31,12 @@ while collaborating closely with product, design, and backend teams.
 - Native module integration
 - Cross-platform architecture design
 
+### Speedy Development
+- Cursor
+- ChatGPT
+- Locofy.AI
+- Fastlane
+ 
 ### Application Architecture & Integrations
 - REST APIs & WebSockets
 - Firebase (Auth, Push Notifications, Analytics)
@@ -55,7 +61,7 @@ while collaborating closely with product, design, and backend teams.
 
 ### Kontinuum Kode Private Limited  
 **React Native & Flutter Developer**  
-*June 2023 – December 2025*
+*July 2023 – June 2025*
 
 - Owned development and maintenance of multiple cross-platform mobile applications.
 - Led end-to-end React Native development for iOS and Android.
